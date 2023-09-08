@@ -11,6 +11,11 @@ const Navigation = () => {
             id: 1,
             title: 'Shop',
             route: 'shop'
+        },
+        {
+            id: 1,
+            title: 'Sign In',
+            route: 'sign-in'
         }
     ];
     return (
